@@ -1,0 +1,350 @@
+
+      <!-- <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 3444px; transform: translate3d(-1148px, 0px, 0px);"><a href="https://www.latihid.com/courses/category/bisnis" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide03" style="width: 124px;" data-slick-index="-6" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7ed79316ba899c4890_Kelas%20Memulai%20Bisnis.svg" width="50">
+          <p class="category-title">Kelas Bisnis</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/marketing" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide04" style="width: 124px;" data-slick-index="-5" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d5dd53766e5bd3051_Kelas%20Pemasaran.svg" width="50">
+          <p class="category-title">Kelas Pemasaran</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide05" style="width: 124px;" data-slick-index="-4" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d7438a8197180ec49_Kelas%20Manajemen%20Operasional.svg" width="50">
+          <p class="category-title">Kelas Manajemen Operasional</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/latihidtalks" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide06" style="width: 124px;" data-slick-index="-3" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f98358b0a7ade47b3bd_LatihID%20Talks.svg" width="50">
+          <p class="category-title">LatihID Talks</p>
+        </div>
+      </a><a href="https://www.latihid.com/p/peta" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide07" style="width: 124px;" data-slick-index="-2" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f98ead4b5744d830d19_LatihID%20PETA.svg" width="50">
+          <p class="category-title">LatihID PETA</p>
+        </div>
+      </a><a href="https://www.latihid.com/p/mentoring" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide08" style="width: 124px;" data-slick-index="-1" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/60595627fea87722322387a5/605959cde81c700cb4d1d87a_latihid-mentoring.svg" width="50">
+          <p class="category-title">LatihID Mentoring</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 124px;" data-slick-index="0" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7dcf4bf617314a0bbe_Kelas%20Gratis%20Terpopuler.svg" width="50">
+          <p class="category-title">Kelas Gratis Populer</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide slick-current slick-active" tabindex="-1" role="option" aria-describedby="slick-slide01" style="width: 124px;" data-slick-index="1" aria-hidden="false">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d80edfecea4a13715_Kelas%20LatihID%20Terbaru.svg" width="50">
+          <p class="category-title">Kelas Terbaru</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/latihid-expert-class" class="category-col slick-slide slick-active" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 124px;" data-slick-index="2" aria-hidden="false">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d92dc101853ce40d2_LatihID%20Expert%20Class.svg" width="50">
+          <p class="category-title">Kelas Expert</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/bisnis" class="category-col slick-slide slick-active" tabindex="-1" role="option" aria-describedby="slick-slide03" style="width: 124px;" data-slick-index="3" aria-hidden="false">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7ed79316ba899c4890_Kelas%20Memulai%20Bisnis.svg" width="50">
+          <p class="category-title">Kelas Bisnis</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/marketing" class="category-col slick-slide slick-active" tabindex="-1" role="option" aria-describedby="slick-slide04" style="width: 124px;" data-slick-index="4" aria-hidden="false">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d5dd53766e5bd3051_Kelas%20Pemasaran.svg" width="50">
+          <p class="category-title">Kelas Pemasaran</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide slick-active" tabindex="-1" role="option" aria-describedby="slick-slide05" style="width: 124px;" data-slick-index="5" aria-hidden="false">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d7438a8197180ec49_Kelas%20Manajemen%20Operasional.svg" width="50">
+          <p class="category-title">Kelas Manajemen Operasional</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/latihidtalks" class="category-col slick-slide slick-active" tabindex="-1" role="option" aria-describedby="slick-slide06" style="width: 124px;" data-slick-index="6" aria-hidden="false">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f98358b0a7ade47b3bd_LatihID%20Talks.svg" width="50">
+          <p class="category-title">LatihID Talks</p>
+        </div>
+      </a><a href="https://www.latihid.com/p/peta" class="category-col slick-slide" tabindex="-1" role="option" aria-describedby="slick-slide07" style="width: 124px;" data-slick-index="7" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f98ead4b5744d830d19_LatihID%20PETA.svg" width="50">
+          <p class="category-title">LatihID PETA</p>
+        </div>
+      </a><a href="https://www.latihid.com/p/mentoring" class="category-col slick-slide" tabindex="-1" role="option" aria-describedby="slick-slide08" style="width: 124px;" data-slick-index="8" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/60595627fea87722322387a5/605959cde81c700cb4d1d87a_latihid-mentoring.svg" width="50">
+          <p class="category-title">LatihID Mentoring</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 124px;" data-slick-index="9" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7dcf4bf617314a0bbe_Kelas%20Gratis%20Terpopuler.svg" width="50">
+          <p class="category-title">Kelas Gratis Populer</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide01" style="width: 124px;" data-slick-index="10" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d80edfecea4a13715_Kelas%20LatihID%20Terbaru.svg" width="50">
+          <p class="category-title">Kelas Terbaru</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/latihid-expert-class" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide02" style="width: 124px;" data-slick-index="11" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d92dc101853ce40d2_LatihID%20Expert%20Class.svg" width="50">
+          <p class="category-title">Kelas Expert</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/bisnis" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide03" style="width: 124px;" data-slick-index="12" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7ed79316ba899c4890_Kelas%20Memulai%20Bisnis.svg" width="50">
+          <p class="category-title">Kelas Bisnis</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/marketing" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide04" style="width: 124px;" data-slick-index="13" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d5dd53766e5bd3051_Kelas%20Pemasaran.svg" width="50">
+          <p class="category-title">Kelas Pemasaran</p>
+        </div>
+      </a><a href="https://www.latihid.com/courses/category/LatihIDModul" class="category-col slick-slide slick-cloned" tabindex="-1" role="option" aria-describedby="slick-slide05" style="width: 124px;" data-slick-index="14" aria-hidden="true">
+        <div class="category-card">
+          <img class="category-icon" src="https://uploads-ssl.webflow.com/5fceb358a1e41ca1c04f7640/60375f7d7438a8197180ec49_Kelas%20Manajemen%20Operasional.svg" width="50">
+          <p class="category-title">Kelas Manajemen Operasional</p>
+        </div>
+      </a></div></div> -->
+
+
+
+
+      
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner row w-100 mx-auto">
+            <div class="carousel-item col-md-2 active">
+              <div class="card">
+                <img class="card-img-top img-fluid" src="https://i.ibb.co/bKctgz5/Who-s-the-best.png" alt="Card image cap" />
+                <div class="card-body">
+                  <h4 class="card-title text-center">Who's the best ?</h4>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item col-md-1">
+              <div class="card">
+                <img class="card-img-top img-fluid" src="https://i.ibb.co/5K2DRqy/We-are-family.png" alt="Card image cap" />
+                <div class="card-body">
+                  <h4 class="card-title">We are family</h4>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item col-md-1">
+              <div class="card">
+                <img class="card-img-top img-fluid" src="https://i.ibb.co/Sfp0DmP/shkoon.png" alt="Card image cap" />
+                <div class="card-body">
+                  <h4 class="card-title">Shkoon ?</h4>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item col-md-1">
+              <div class="card">
+                <img class="card-img-top img-fluid" src="https://i.ibb.co/bKctgz5/Who-s-the-best.png" alt="Card image cap" />
+                <div class="card-body">
+                  <h4 class="card-title">Who's the best ?</h4>
+                  <p class="card-text">
+                    1500 questions/réponses pour jouer en famille ou entre amis. Cinq catégories de questions (adaptées à toutes les tranches d’âge) aussi enrichissantes qu’amusantes : histoire géographique, culture générale, houmach, dinim,
+                    histoire juive.
+                  </p>
+                  <a class="btn btn-primary btn1" href="whosTheBest.html">En savoir plus</a>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item col-md-2">
+              <div class="card">
+                <img class="card-img-top img-fluid" src="https://i.ibb.co/5K2DRqy/We-are-family.png" alt="Card image cap" />
+                <div class="card-body">
+                  <h4 class="card-title">We are family</h4>
+                  <p class="card-text">Jeu de 7 familles, dont le but est de parcourir le monde en découvrant les faits marquants de chacune des 7 communautés de ce jeu mêlant humour, mémoire et observation.</p>
+                  <a class="btn btn-primary btn2" href="weAreFamily.html">En savoir plus</a>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item col-md-2">
+              <div class="card">
+                <img class="card-img-top img-fluid" src="https://i.ibb.co/Sfp0DmP/shkoon.png" alt="Card image cap" />
+                <div class="card-body">
+                  <h4 class="card-title">Shkoon ?</h4>
+                  <p class="card-text">Jeu de déduction où chaque joueur, dispose d’un plateau aimanté sur lequel sont représentés les portraits de 28 personnalités ayant marqué leur domaine.</p>
+                  <a class="btn btn-primary btn2" href="shkoon.html">En savoir plus</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+      </div>
+
+    <!-- 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.css" />
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="test.js"></script> -->
+
+
+
+    
+/* .carousel-item img {
+  width: 45px;
+} */
+/*
+@media (min-width: 768px) {
+  /* show 3 items */
+/* .carousel-inner .active,
+  .carousel-inner .active + .carousel-item,
+  .carousel-inner .active + .carousel-item + .carousel-item {
+    display: block;
+  } */
+/* 
+  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item,
+  .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+    transition: none;
+  } */
+
+/* .carousel-inner .carousel-item-next,
+  .carousel-inner .carousel-item-prev {
+    position: relative;
+    transform: translate3d(0, 0, 0);
+  } */
+
+/* .carousel-inner .active.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+    position: absolute;
+    top: 0;
+    right: -33.3333%;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+  } */
+
+/* left or forward direction */
+/* .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+  .carousel-item-next.carousel-item-left + .carousel-item,
+  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,
+  .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+    position: relative;
+    transform: translate3d(-100%, 0, 0);
+    visibility: visible;
+  } */
+
+/* farthest right hidden item must be abso position for animations */
+/* .carousel-inner .carousel-item-prev.carousel-item-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    display: block;
+    visibility: visible;
+  } */
+
+/* right or prev direction */
+/* .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+  .carousel-item-prev.carousel-item-right + .carousel-item,
+  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,
+  .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+    position: relative;
+    transform: translate3d(100%, 0, 0);
+    visibility: visible;
+    display: block;
+    visibility: visible;
+  }
+} */
+
+/* #myCarousel .carousel-item {
+  margin: 0 !important;
+  padding: 0% !important;
+}
+*/
+
+
+<div class="container-fluid">
+  <h1 class="text-center mb-3">Bootstrap Multi-Card Carousel</h1>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner row w-100 mx-auto">
+      <div class="carousel-item col-md-4 active">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/f44242/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 1</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item col-md-4">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/418cf4/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 2</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item col-md-4">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/3ed846/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 3</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item col-md-4">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/42ebf4/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 4</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item col-md-4">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/f49b41/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 5</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item col-md-4">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/f4f141/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 6</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item col-md-4">
+        <div class="card">
+          <img class="card-img-top img-fluid" src="http://placehold.it/800x600/8e41f4/fff" alt="Card image cap">
+          <div class="card-body">
+            <h4 class="card-title">Card 7</h4>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>
